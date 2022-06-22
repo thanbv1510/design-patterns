@@ -12,7 +12,7 @@
 
 - [Factory Pattern](docs/patterns/creational/factorymethod/factorymethod.md)
 - [Abstract Factory Pattern](docs/patterns/creational/abstractfactory/abstractfactory.md)
-- Singleton Factory Pattern
+- [Singleton Factory Pattern](docs/patterns/creational/singleton/singleton.md)
 - Prototype Pattern
 - Builder Pattern
 
