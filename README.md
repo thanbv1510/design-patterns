@@ -18,7 +18,7 @@
 
 ### Structural Design Pattern
 
-- Adapter Pattern
+- [Adapter Pattern](docs/patterns/structual/adapter/adapter.md)
 - Bridge Pattern
 - Composite Pattern
 - Decorator Pattern
