@@ -20,7 +20,7 @@
 
 - [Adapter Pattern](docs/patterns/structual/adapter/adapter.md)
 - [Bridge Pattern](docs/patterns/structual/bridge/bridge.md)
-- Composite Pattern
+- [Composite Pattern](docs/patterns/structual/composite/composite.md)
 - Decorator Pattern
 - Facade Pattern
 - Flyweight Pattern
